@@ -59,6 +59,7 @@ Suport by: FadlanBleach [TEAM BOT PROTECT]
 Note : Jika ingin instal pke vps tinggal tambah sudo di depan command
 
 # Creator By FadlanBleach
-• Add My ID LINE : 〘 https://line.me/ti/p/~ 〙
+• Add My ID LINE : 
+〘 https://line.me/ti/p/~ 〙
 
 〘 https://line.me/ti/p/~ 〙
